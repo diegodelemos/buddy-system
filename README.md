@@ -6,18 +6,37 @@ The goal of the buddy system is multifaceted:
 * Speed up the process of gaining essential technical knowledge for working on Invenio.
 * Develop buddies skills in communication and take larger responsibility in the project.
 
-## Buddy duties
-A ‘buddy’ is a person, who is assigned to a newcomer for the first two months to help the person whenever the person will need it. The selected buddy should normally be a person from another service team to ensure cross-team integration in the section, however in particular the buddy should not be the newcomer’s supervisor. The section leader is responsible for assigning the buddy to the newcomer. Also, the buddy must be available during the first two weeks after thenewcomer arrives, and should not have extended absences (i.e. >2-3 weeks) during the first two months.
+## Who is involved?
+As previously mentioned, the buddy system intends to improve the experience of newcomers, but for doing so there are three main actors who have to take part:
 
-For absences of a week or more, the buddy should ensure to hand-over buddy responsibilities to a colleague.
+* The newcomer himself/herself
+* Buddy
+* Newcomer's supervisor
 
+It is important to keep in mind that the person who knows more about the newcomer's duties is his/her supervisor. Therefore, from now on all the actions to be taken will come along with the actor who is in charge of performing them.
+
+## Buddy
+### Who is the Buddy?
+* A person assigned to a newcomer for the first two months to help in both technical and social needs.
+
+* Someone from another service team to ensure cross-team integration in the section
+
+* Can not be the newcomer’s supervisor.
+
+* The section leader is responsible of selecting the newcomer's buddy.
+
+* Should be available during the first two weeks after the newcomer arrives, and should not have extended absences (i.e. >2-3 weeks) during the first two months.
+
+* For absences of a week or more, the buddy should ensure to hand-over buddy responsibilities to a colleague.
+
+### What are the responsibilities associated?
 Responsibilities of a buddy:
 * Prior to arrival:
-    * Buddy must meet the newcomer’s supervisor in order to get an overview of newcomer’s project and discuss the first couple of tasks with the supervisor:
+    * Buddy must meet the newcomer’s supervisor in order to get an overview of newcomer’s project and discuss the first tasks:
         * Arrange time for when the supervisor will introduce the buddy on first day (and ensure the buddy is not on vacation during the first 2 weeks when the newcomer arrives).
         * Find two tasks in Invenio: one small (~1 hr) and one medium sized (~1 day) suitable for pair-programming.
         * Find a first larger service task that supervisor will help
-    * Buddy must prepare for running the bootcamp of the new arrival (i.e. read up relevant Invenio documentation, rehearse the presentations, test tutorials, check if any part of the material is outdated).
+    * Buddy must prepare for running the bootcamp of the new arrival following inveniosoftware/training repository.
 * After arrival:
     * First day:
         * Take a coffee, present yourself and your project. Possibly talk about:
@@ -63,7 +82,7 @@ Responsibilities of a buddy:
 * 8th week:
     * Feedback session on first two months: what was good, what was bad, what could be improved.
 
-## Good behavioural practices
+### Good behavioural practices
 Apart from above responsibilities, the buddy is also supposed to keep in mind a list of a good
 behavioural practices that he/she should take.
 * Technical
@@ -80,3 +99,7 @@ Moreover, the buddy should also remember about the social part of his/her job:
     * Observe if a newcomer is not ashamed of asking consecutive question even if one is lost
     * Always be polite
     * Do not compare newcomer’s work and its duration to anyone else
+
+## Newcomer
+
+## Supervisor
