@@ -2,6 +2,7 @@
 
 ## Goal
 The goal of the buddy system is multifaceted:
+
 * Ensure newcomers feel comfortable and part of our team.
 * Speed up the process of gaining essential technical knowledge for working on Invenio.
 * Develop buddies skills in communication and take larger responsibility in the project.
@@ -9,97 +10,81 @@ The goal of the buddy system is multifaceted:
 ## Who is involved?
 As previously mentioned, the buddy system intends to improve the experience of newcomers, but for doing so there are three main actors who have to take part:
 
-* The newcomer himself/herself
-* Buddy
+* The newcomer
 * Newcomer's supervisor
+* Buddy
 
-It is important to keep in mind that the person who knows more about the newcomer's duties is his/her supervisor. Therefore, from now on all the actions to be taken will come along with the actor who is in charge of performing them.
+It is important to keep in mind that the person who knows more about the newcomer's duties is his/her supervisor. Therefore, from now all the actions to be taken will come along with the actor who is in charge of performing them.
 
-## Buddy
-### Who is the Buddy?
-* A person assigned to a newcomer for the first two months to help in both technical and social needs.
+## Who is the Buddy?
+* A person assigned to a newcomer for the first two months to help in both technical and social needs
 
 * Someone from another service team to ensure cross-team integration in the section
 
-* Can not be the newcomer’s supervisor.
+* Can not be the newcomer’s supervisor
 
-* The section leader is responsible of selecting the newcomer's buddy.
+* The section leader is responsible of selecting the newcomer's buddy
 
-* Should be available during the first two weeks after the newcomer arrives, and should not have extended absences (i.e. >2-3 weeks) during the first two months.
+* Should be available during the first two weeks after the newcomer arrives, and should not have extended absences (i.e. >2-3 weeks) during the first two months
 
-* For absences of a week or more, the buddy should ensure to hand-over buddy responsibilities to a colleague.
+* For absences of a week or more, the buddy should ensure to hand-over buddy responsibilities to a colleague
 
-### What are the responsibilities associated?
-Responsibilities of a buddy:
-* Prior to arrival:
-    * Buddy must meet the newcomer’s supervisor in order to get an overview of newcomer’s project and discuss the first tasks:
-        * Arrange time for when the supervisor will introduce the buddy on first day (and ensure the buddy is not on vacation during the first 2 weeks when the newcomer arrives).
-        * Find two tasks in Invenio: one small (~1 hr) and one medium sized (~1 day) suitable for pair-programming.
-        * Find a first larger service task that supervisor will help
-    * Buddy must prepare for running the bootcamp of the new arrival following inveniosoftware/training repository.
-* After arrival:
-    * First day:
-        * Take a coffee, present yourself and your project. Possibly talk about:
-        * CERN structure: what is department, section, group
-        * EDH and absences
-        * Let him/her ask about doubts about the project.
-    * 1st week:
-        * Bootcamp: Run the bootcamp with the newcomer (using standard material/presentations):
-        * Presentation: Introduction to Invenio, use-cases and digital repositories.
-        * Presentation: Communication channels: Gitter, Mattermost.Maintainers, Meetings
-        * Guided tutorial: Get Invenio up and running.
-        * Guided tutorial: Setting up your development environment
-        * Guided tutorial: Developing for Invenio, including cookiecutter (+seeing all the files), tiny task, running tests, installing inside invenio
-        * Pair-programming: Solve first small task.
-        * Tutorial: Submitting a pull request
-        * Presentation: Overview of contribution and style guide
-        * Pair-programming: Solve medium sized task.
-        * Presentation: Invenio general architecture overview. Module overview.
-        * Remember: newcomer also needs “free” time for setting up their OS, office space etc.
-    * Bring newcomer to:
-        * First coming Friday section coffee
-        * Lunches
-        * First coming Invenio Developer Forum.
-        * Encourage newcomer to take part in the evenings events (if there’s som).
-    * Arrange with newcomer to meet for a daily coffee in social room during second week.
-    * Arrange for pair-programming on service task.
-    * Ask for feedback on bootcamp week.
+## What are the responsibilities?
+
+Prior to arrival:
+
+* Buddy must meet the newcomer’s supervisor in order to get an overview of newcomer’s project and discuss the first tasks:
+    * Arrange time for when the supervisor will introduce the buddy on first day
+    * Define tasks on Invenio:
+        * One of the following small tasks: read up relevant Invenio documentation, rehearse the presentations, test tutorials, check if any part of the material is outdated (~1 hr)
+        * A medium sized task (~1 day) suitable for pair-programming
+        * A first larger service task in which the supervisor will help
+* Buddy must prepare for running the bootcamp of the new arrival following `inveniosoftware/training` repository.
+
+After arrival:
+
+* First day:
+    * Take a coffee, present yourself and your project. Possibly talk about:
+	    * CERN structure: what is a department, section, group etc...
+	    * EDH general features
+	    * Let newcomer ask doubts about the project, the more the better
+
+
+* 1st week:
+    * Bootcamp: Run the bootcamp with the newcomer (using standard material/presentations):
+       * Presentation: Introduction to Invenio, use-cases and digital repositories
+       * Presentation: Communication channels (Gitter, Mattermost etc...) Maintainers, Meetings
+    * Guided tutorial: Setting up your development environment
+    * Guided tutorial: Get Invenio up and running
+    * Guided tutorial: Developing for Invenio, including cookiecutter (+seeing all the files), tiny task, running tests, installing inside Invenio
+    * Pair-programming: Solve first small task
+    * Tutorial: Submitting a pull request
+    * Presentation: Overview of contribution and style guide
+    * Pair-programming: Solve medium sized task
+    * Presentation: Invenio general architecture overview
+    * Presentation: Module overview
+    * Remember: newcomer also needs “free” time for setting up their OS, office space etc
+    * Arrange for pair-programming on a service task
+
 * 2nd week:
-    * Pair-programming on service task.
-    * Every day, take a coffee in e.g. social room 1-to-1. Use the daily coffee to:
-        * Proactively ask if she/he is having any doubts, questions or is confused.
-        * Be interested how are you doing as a buddy.
+	* Pair-programming on service task
+
 * 3rd-8th week:
-    * Be accessible for newcomer to all questions.
-    * Look after newcomer and check that pull request and interaction with the section is appropriate (i.e. according to CERN and Invenio code of conduct).
-    * Continue bringing newcomer Friday coffees.
-    * Minimum once a week, take a 1-to-1 coffee in social room:
-        * Before the coffee (and preferably continuously during the week), check the newcomer’s pull requests and check if other colleagues comments are appropriate. Use this information to:
-        * Proactively ask for feedback:
-        * Newcomer feel comfortable making pull requests, or how newcomer felt about a specific comment.
-        * E.g. if the buddy can do a better in terms of availability.
-        * If he/she feels comfortable with interrupting the buddy.
+	* Be accessible for newcomer to all questions
+	* Check that pull requests and interaction with the section is appropriate (i.e. according to CERN and Invenio code of conduct)
+	* Minimum once a week, take a 1-to-1 coffee in social room:
+	* Proactively ask for feedback
+	* Newcomer should start to 
+
 * 8th week:
-    * Feedback session on first two months: what was good, what was bad, what could be improved.
+	* Feedback session on last two months with buddy system maintainer: what was good, what was bad, what could be improved.
 
-### Good behavioural practices
-Apart from above responsibilities, the buddy is also supposed to keep in mind a list of a good
-behavioural practices that he/she should take.
-* Technical
-    * Make a newcomer comfortable of making mistakes
-        * Don’t let one be afraid of writing not fully correct issue or having comments on PR
-        * Make sure that the amount of comments under first github action is reasonable
-    * Remember not everyone has used git before or feel comfortable with it, so if needed, show basics
-    * Constantly be interested how are you doing as a buddy.
-    * Proactively ask for feedback about the system itself
-        * In the end of the time period predicted, ask one what is the thing that one is missing, what one would change in the system
-
-Moreover, the buddy should also remember about the social part of his/her job:
-   * Social
-    * Observe if a newcomer is not ashamed of asking consecutive question even if one is lost
-    * Always be polite
-    * Do not compare newcomer’s work and its duration to anyone else
-
-## Newcomer
-
-## Supervisor
+## During the whole proccess
+	
+* Make newcomer aware of:
+	* Friday section coffee
+	* Invenio Developer Forum
+	* Our lunches together
+	* Section events (if there are some coming)
+* Arrange with newcomer to meet for a daily coffee (social room, R2 ...)
+* Follow up with the buddy system maintainer
